@@ -10,7 +10,7 @@ Jinja2==2.10
 kiwisolver==1.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.22.0
 psycopg2==2.8.2
 pyAudioAnalysis==0.2.5
 pydub==0.23.1
